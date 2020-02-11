@@ -2,7 +2,7 @@
 
 5 day challenge:
 - 1: done
-- 2:
+- 2: done
 - 3:
 - 4:
 - 5:
