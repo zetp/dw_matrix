@@ -6,3 +6,5 @@
 - 3: done
 - 4: done
 - 5: done
+
+Second challenge: predicting car prices
