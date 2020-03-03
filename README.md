@@ -8,3 +8,5 @@
 - 5: done
 
 Second challenge: predicting car prices
+- day1: done
+- day2: done
