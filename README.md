@@ -13,3 +13,10 @@ Second challenge: predicting car prices
 - day3: done
 - day4: done
 - day5: done
+
+3rd challenge:
+- day1: done
+- day2: done
+- day3: done
+- day4: done
+- day5: done
